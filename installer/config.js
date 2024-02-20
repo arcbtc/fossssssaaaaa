@@ -1,11 +1,11 @@
 export const addressesAndFiles = [
   {
     address: "0x1000",
-    fileName: "lnpos.ino.bootloader.bin",
+    fileName: "fossa.ino.bootloader.bin",
   },
   {
     address: "0x8000",
-    fileName: "lnpos.ino.partitions.bin",
+    fileName: "fossa.ino.partitions.bin",
   },
   {
     address: "0xE000",
@@ -13,18 +13,12 @@ export const addressesAndFiles = [
   },
   {
     address: "0x10000",
-    fileName: "lnpos.ino.bin",
+    fileName: "fossa.ino.bin",
   },
 ];
 
 export const configPath = "elements.json";
 export const elements = [
-  {
-    name: "config_lnurlpos",
-    value: "",
-    label: "LNURLPoS string from LNURLDevices extension",
-    type: "text",
-  },
   {
     name: "config_lnurlatm",
     value: "",
@@ -32,63 +26,15 @@ export const elements = [
     type: "text",
   },
   {
-    name: "config_password",
+    name: "config_maxamount",
     value: "",
-    label: "Device Password",
+    label: "Max amount a user can withdraw",
     type: "text",
   },
   {
-    name: "config_masterkey",
+    name: "config_charge",
     value: "",
-    label: "Onchain Master Public Key",
+    label: "Charge added to withdraws",
     type: "text",
-  },
-  {
-    name: "config_server",
-    value: "",
-    label: "LNbits Server",
-    type: "text",
-  },
-  {
-    name: "config_invoice",
-    value: "",
-    label: "Wallet Invoice Key",
-    type: "text",
-  },
-  {
-    name: "config_lncurrency",
-    value: "",
-    label: "PoS Currency. ie: EUR",
-    type: "text",
-  },
-  {
-    name: "config_lnurlatmms",
-    value: "",
-    label: "Mempool.space Server",
-    type: "text",
-  },
-  {
-    name: "config_lnurlatmpin",
-    value: "",
-    label: "LNURLATM pin String",
-    type: "text",
-  },
-  {
-    name: "config_decimalplaces",
-    value: "",
-    label: "FIAT Decimal Places",
-    type: "text",
-  },
-  {
-    name: "config_wifi_ssid",
-    value: "",
-    label: "WiFi SSID",
-    type: "text",
-  },
-  {
-    name: "config_wifi_password",
-    value: "",
-    label: "WiFi Password",
-    type: "text",
-  },
+  }
 ];

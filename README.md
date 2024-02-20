@@ -1,11 +1,8 @@
 ![image](https://user-images.githubusercontent.com/33088785/189915358-b8d75cf5-9b10-43b8-a874-3cf08b0b95c5.png)
 
 # FOSSA!
-## Use the webinstaller to flash on configure fossa.lnbits.com
-
-
-## OFFLINE, FOSS, CHEAP, BILLS/COINS, EASY CONFIG WEB PORTAL 
-
+## OFFLINE, CHEAP, FOSS, BILLS/COINS, EASY BUILD/INSTALL/CONFIG
+## Use the webinstaller to flash on configure <a href="fossa.lnbits.com">fossa.lnbits.com</a>
 
 > <i>Join our <a href="https://t.me/makerbits">telegram support/chat</a>.</i>
 
@@ -62,18 +59,6 @@ Use the templates provided <a href="cuttingTemplate.pdf">here</a>. print out at 
 
 We use CT1 sealent/adhesive (or similar) for mounting screen, although the screen has screw points, which should prob be used for added security.
 
-## Installing arduino + libraries
-
-Install the Arduino IDE,<br>
-https://www.arduino.cc/en/Main/Software
-
-Install the ESP32 hardware,<br>
-https://github.com/espressif/arduino-esp32#installation-instructions
-
-Copy the libraries from this projects <a href="/libraries">libraries</a> folder, to your `"/Arduino/libraries"` folder (usually in OS `"Home"` directory)
-
-![BITCOIN](https://i.imgur.com/mCfnhZN.png)
-
 
 ### LNbits configuring
 
@@ -85,3 +70,36 @@ Copy the libraries from this projects <a href="/libraries">libraries</a> folder,
 ![image](https://user-images.githubusercontent.com/33088785/169524860-203a6c07-eb61-4b68-b493-098ca6333c01.png)
 
 * Strip apart copied LNURLATM string and replace credentials <a href="https://github.com/arcbtc/fossa/blob/1fca72627d6bd7cfc2f2a1a7df8ca23acfd6ed62/noAccessPointSimpleFOSSA/noAccessPointSimpleFOSSA.ino#L16">here</a>
+
+
+## Installing (via arduino-cli + libraries)
+
+If you don't want to use the web-installer, we reccomend the Arduino-cli:
+
+```console
+sudo apt update
+sudo apt install arduino-cli
+arduino-cli upload --fqbn esp32:esp32:esp32 --input-dir build -p /dev/ttyUSB1
+```
+> Tip: if your device is not on `/dev/ttyUSB1`, you can find by `/dev/tty` and hitting tab
+
+For developing, to recompile the build before uploading:
+
+```console
+sh build.sh
+```
+
+## Installing (via Arduino IDE + libraries)
+
+You may want to tinker around and use the Arduino IDE to install, if so do:
+
+* Install the Arduino IDE https://www.arduino.cc/en/Main/Software
+
+* Install the ESP32 hardware https://github.com/espressif/arduino-esp32#installation-instructions
+
+* Use the "Library Manager" in the IDE to install `ArduinoJson, Base64, uBitcoin`
+* Copy the `TFT_eSPI, qrcode` libraries from this projects <a href="/libraries">libraries</a> folder, to your `"/Arduino/libraries"` folder (usually in OS `"Home"` directory)
+* Plug the controller into your computer (make sure to use a wire with data cable) and `upload` the sketch.
+
+![BITCOIN](https://i.imgur.com/mCfnhZN.png)
+
