@@ -1,4 +1,4 @@
-/home/ben/Projects/fossa/build/libraries/uBitcoin/utility/trezor/base58.c.o: \
+/home/ben/Projects/fossssssaaaaa/build/libraries/uBitcoin/utility/trezor/base58.c.o: \
  /home/ben/Arduino/libraries/uBitcoin/src/utility/trezor/base58.c \
  /home/ben/Arduino/libraries/uBitcoin/src/utility/trezor/base58.h \
  /home/ben/Arduino/libraries/uBitcoin/src/utility/trezor/hasher.h \

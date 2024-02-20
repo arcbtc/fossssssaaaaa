@@ -1,4 +1,4 @@
-/home/ben/Projects/fossa/build/libraries/uBitcoin/utility/trezor/rand.c.o: \
+/home/ben/Projects/fossssssaaaaa/build/libraries/uBitcoin/utility/trezor/rand.c.o: \
  /home/ben/Arduino/libraries/uBitcoin/src/utility/trezor/rand.c \
  /home/ben/Arduino/libraries/uBitcoin/src/utility/trezor/rand.h \
  /home/ben/Arduino/libraries/uBitcoin/src/utility/trezor/sha2.h \

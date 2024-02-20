@@ -1,4 +1,4 @@
-/home/ben/Projects/fossa/build/libraries/uBitcoin/utility/trezor/secp256k1.c.o: \
+/home/ben/Projects/fossssssaaaaa/build/libraries/uBitcoin/utility/trezor/secp256k1.c.o: \
  /home/ben/Arduino/libraries/uBitcoin/src/utility/trezor/secp256k1.c \
  /home/ben/Arduino/libraries/uBitcoin/src/utility/trezor/secp256k1.h \
  /home/ben/Arduino/libraries/uBitcoin/src/utility/trezor/ecdsa.h \

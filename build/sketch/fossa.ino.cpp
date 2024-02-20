@@ -1,5 +1,5 @@
 #include <Arduino.h>
-#line 1 "/home/ben/Projects/fossa/fossa/fossa.ino"
+#line 1 "/home/ben/Projects/fossssssaaaaa/fossa/fossa.ino"
 // FOSSA NO ACCESS POINT, SIMPLE
 
 //=========================================================//
@@ -73,43 +73,43 @@ HardwareSerial SerialPort2(2);
 TFT_eSPI tft = TFT_eSPI();
 Button BTNA(BTN1);
 
-#line 74 "/home/ben/Projects/fossa/fossa/fossa.ino"
+#line 74 "/home/ben/Projects/fossssssaaaaa/fossa/fossa.ino"
 void setup();
-#line 100 "/home/ben/Projects/fossa/fossa/fossa.ino"
+#line 100 "/home/ben/Projects/fossssssaaaaa/fossa/fossa.ino"
 void loop();
-#line 113 "/home/ben/Projects/fossa/fossa/fossa.ino"
+#line 113 "/home/ben/Projects/fossssssaaaaa/fossa/fossa.ino"
 void moneyTimerFun();
-#line 165 "/home/ben/Projects/fossa/fossa/fossa.ino"
+#line 165 "/home/ben/Projects/fossssssaaaaa/fossa/fossa.ino"
 void to_upper(char *arr);
-#line 176 "/home/ben/Projects/fossa/fossa/fossa.ino"
+#line 176 "/home/ben/Projects/fossssssaaaaa/fossa/fossa.ino"
 String getValue(String data, char separator, int index);
-#line 195 "/home/ben/Projects/fossa/fossa/fossa.ino"
+#line 195 "/home/ben/Projects/fossssssaaaaa/fossa/fossa.ino"
 String getJsonValue(JsonDocument &doc, const char *name);
-#line 214 "/home/ben/Projects/fossa/fossa/fossa.ino"
+#line 214 "/home/ben/Projects/fossssssaaaaa/fossa/fossa.ino"
 void makeLNURL();
-#line 242 "/home/ben/Projects/fossa/fossa/fossa.ino"
+#line 242 "/home/ben/Projects/fossssssaaaaa/fossa/fossa.ino"
 int xor_encrypt(uint8_t *output, size_t outlen, uint8_t *key, size_t keylen, uint8_t *nonce, size_t nonce_len, uint64_t pin, uint64_t amount_in_cents);
-#line 1 "/home/ben/Projects/fossa/fossa/100_config.ino"
+#line 1 "/home/ben/Projects/fossssssaaaaa/fossa/100_config.ino"
 void executeConfig();
-#line 26 "/home/ben/Projects/fossa/fossa/100_config.ino"
+#line 26 "/home/ben/Projects/fossssssaaaaa/fossa/100_config.ino"
 void executeCommand(String commandName, String commandData);
-#line 53 "/home/ben/Projects/fossa/fossa/100_config.ino"
+#line 53 "/home/ben/Projects/fossssssaaaaa/fossa/100_config.ino"
 void removeFile(String path);
-#line 59 "/home/ben/Projects/fossa/fossa/100_config.ino"
+#line 59 "/home/ben/Projects/fossssssaaaaa/fossa/100_config.ino"
 void appendToFile(String path, String data);
-#line 74 "/home/ben/Projects/fossa/fossa/100_config.ino"
+#line 74 "/home/ben/Projects/fossssssaaaaa/fossa/100_config.ino"
 void readFile(String path);
-#line 91 "/home/ben/Projects/fossa/fossa/100_config.ino"
+#line 91 "/home/ben/Projects/fossssssaaaaa/fossa/100_config.ino"
 KeyValue extractKeyValue(String s);
-#line 103 "/home/ben/Projects/fossa/fossa/100_config.ino"
+#line 103 "/home/ben/Projects/fossssssaaaaa/fossa/100_config.ino"
 void readFiles();
-#line 1 "/home/ben/Projects/fossa/fossa/101_display.ino"
+#line 1 "/home/ben/Projects/fossssssaaaaa/fossa/101_display.ino"
 void printMessage(String text1, String text2, String text3, int ftcolor, int bgcolor);
-#line 15 "/home/ben/Projects/fossa/fossa/101_display.ino"
+#line 15 "/home/ben/Projects/fossssssaaaaa/fossa/101_display.ino"
 void feedmefiat();
-#line 57 "/home/ben/Projects/fossa/fossa/101_display.ino"
+#line 57 "/home/ben/Projects/fossssssaaaaa/fossa/101_display.ino"
 void qrShowCodeLNURL(String message);
-#line 74 "/home/ben/Projects/fossa/fossa/fossa.ino"
+#line 74 "/home/ben/Projects/fossssssaaaaa/fossa/fossa.ino"
 void setup()
 {
   BTNA.begin();
@@ -329,7 +329,7 @@ int xor_encrypt(uint8_t *output, size_t outlen, uint8_t *key, size_t keylen, uin
   // return number of bytes written to the output
   return cur;
 }
-#line 1 "/home/ben/Projects/fossa/fossa/100_config.ino"
+#line 1 "/home/ben/Projects/fossssssaaaaa/fossa/100_config.ino"
 void executeConfig()
 {
     while (true)
@@ -476,7 +476,7 @@ void readFiles()
     }
     paramFile.close();
 }
-#line 1 "/home/ben/Projects/fossa/fossa/101_display.ino"
+#line 1 "/home/ben/Projects/fossssssaaaaa/fossa/101_display.ino"
 void printMessage(String text1, String text2, String text3, int ftcolor, int bgcolor)
 {
     tft.fillScreen(bgcolor);

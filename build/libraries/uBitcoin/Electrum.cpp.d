@@ -1,4 +1,4 @@
-/home/ben/Projects/fossa/build/libraries/uBitcoin/Electrum.cpp.o: \
+/home/ben/Projects/fossssssaaaaa/build/libraries/uBitcoin/Electrum.cpp.o: \
  /home/ben/Arduino/libraries/uBitcoin/src/Electrum.cpp \
  /home/ben/Arduino/libraries/uBitcoin/src/Electrum.h \
  /home/ben/Arduino/libraries/uBitcoin/src/Bitcoin.h \

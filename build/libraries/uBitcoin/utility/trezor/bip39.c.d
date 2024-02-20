@@ -1,4 +1,4 @@
-/home/ben/Projects/fossa/build/libraries/uBitcoin/utility/trezor/bip39.c.o: \
+/home/ben/Projects/fossssssaaaaa/build/libraries/uBitcoin/utility/trezor/bip39.c.o: \
  /home/ben/Arduino/libraries/uBitcoin/src/utility/trezor/bip39.c \
  /home/ben/Arduino/libraries/uBitcoin/src/utility/trezor/bip39.h \
  /home/ben/Arduino/libraries/uBitcoin/src/utility/trezor/hmac.h \

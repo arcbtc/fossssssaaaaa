@@ -1,4 +1,4 @@
-/home/ben/Projects/fossa/build/libraries/uBitcoin/BaseClasses.cpp.o: \
+/home/ben/Projects/fossssssaaaaa/build/libraries/uBitcoin/BaseClasses.cpp.o: \
  /home/ben/Arduino/libraries/uBitcoin/src/BaseClasses.cpp \
  /home/ben/Arduino/libraries/uBitcoin/src/uBitcoin_conf.h \
  /home/ben/.arduino15/packages/esp32/hardware/esp32/2.0.14/cores/esp32/Arduino.h \

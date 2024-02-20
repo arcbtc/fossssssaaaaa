@@ -1,4 +1,4 @@
-/home/ben/Projects/fossa/build/libraries/uBitcoin/Hash.cpp.o: \
+/home/ben/Projects/fossssssaaaaa/build/libraries/uBitcoin/Hash.cpp.o: \
  /home/ben/Arduino/libraries/uBitcoin/src/Hash.cpp \
  /home/ben/Arduino/libraries/uBitcoin/src/Hash.h \
  /home/ben/Arduino/libraries/uBitcoin/src/uBitcoin_conf.h \

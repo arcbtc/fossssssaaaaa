@@ -1,4 +1,4 @@
-/home/ben/Projects/fossa/build/libraries/SPI/SPI.cpp.o: \
+/home/ben/Projects/fossssssaaaaa/build/libraries/SPI/SPI.cpp.o: \
  /home/ben/.arduino15/packages/esp32/hardware/esp32/2.0.14/libraries/SPI/src/SPI.cpp \
  /home/ben/.arduino15/packages/esp32/hardware/esp32/2.0.14/libraries/SPI/src/SPI.h \
  /home/ben/.arduino15/packages/esp32/hardware/esp32/2.0.14/variants/esp32/pins_arduino.h \

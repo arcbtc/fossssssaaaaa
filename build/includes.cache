@@ -10,52 +10,52 @@
     "Includepath": "/home/ben/.arduino15/packages/esp32/hardware/esp32/2.0.14/variants/esp32"
   },
   {
-    "Sourcefile": "/home/ben/Projects/fossa/build/sketch/fossa.ino.cpp",
+    "Sourcefile": "/home/ben/Projects/fossssssaaaaa/build/sketch/fossa.ino.cpp",
     "Include": "Wire.h",
     "Includepath": "/home/ben/.arduino15/packages/esp32/hardware/esp32/2.0.14/libraries/Wire/src"
   },
   {
-    "Sourcefile": "/home/ben/Projects/fossa/build/sketch/fossa.ino.cpp",
+    "Sourcefile": "/home/ben/Projects/fossssssaaaaa/build/sketch/fossa.ino.cpp",
     "Include": "FS.h",
     "Includepath": "/home/ben/.arduino15/packages/esp32/hardware/esp32/2.0.14/libraries/FS/src"
   },
   {
-    "Sourcefile": "/home/ben/Projects/fossa/build/sketch/fossa.ino.cpp",
+    "Sourcefile": "/home/ben/Projects/fossssssaaaaa/build/sketch/fossa.ino.cpp",
     "Include": "SPIFFS.h",
     "Includepath": "/home/ben/.arduino15/packages/esp32/hardware/esp32/2.0.14/libraries/SPIFFS/src"
   },
   {
-    "Sourcefile": "/home/ben/Projects/fossa/build/sketch/fossa.ino.cpp",
+    "Sourcefile": "/home/ben/Projects/fossssssaaaaa/build/sketch/fossa.ino.cpp",
     "Include": "TFT_eSPI.h",
-    "Includepath": "/home/ben/Projects/fossa/libraries/TFT_eSPI"
+    "Includepath": "/home/ben/Projects/fossssssaaaaa/libraries/TFT_eSPI"
   },
   {
-    "Sourcefile": "/home/ben/Projects/fossa/build/sketch/fossa.ino.cpp",
+    "Sourcefile": "/home/ben/Projects/fossssssaaaaa/build/sketch/fossa.ino.cpp",
     "Include": "SPI.h",
     "Includepath": "/home/ben/.arduino15/packages/esp32/hardware/esp32/2.0.14/libraries/SPI/src"
   },
   {
-    "Sourcefile": "/home/ben/Projects/fossa/build/sketch/fossa.ino.cpp",
+    "Sourcefile": "/home/ben/Projects/fossssssaaaaa/build/sketch/fossa.ino.cpp",
     "Include": "JC_Button.h",
     "Includepath": "/home/ben/Arduino/libraries/JC_Button/src"
   },
   {
-    "Sourcefile": "/home/ben/Projects/fossa/build/sketch/fossa.ino.cpp",
+    "Sourcefile": "/home/ben/Projects/fossssssaaaaa/build/sketch/fossa.ino.cpp",
     "Include": "Hash.h",
     "Includepath": "/home/ben/Arduino/libraries/uBitcoin/src"
   },
   {
-    "Sourcefile": "/home/ben/Projects/fossa/build/sketch/fossa.ino.cpp",
+    "Sourcefile": "/home/ben/Projects/fossssssaaaaa/build/sketch/fossa.ino.cpp",
     "Include": "ArduinoJson.h",
     "Includepath": "/home/ben/Arduino/libraries/ArduinoJson/src"
   },
   {
-    "Sourcefile": "/home/ben/Projects/fossa/build/sketch/fossa.ino.cpp",
+    "Sourcefile": "/home/ben/Projects/fossssssaaaaa/build/sketch/fossa.ino.cpp",
     "Include": "qrcoded.h",
-    "Includepath": "/home/ben/Projects/fossa/libraries/QRCode/src"
+    "Includepath": "/home/ben/Projects/fossssssaaaaa/libraries/QRCode/src"
   },
   {
-    "Sourcefile": "/home/ben/Projects/fossa/build/sketch/fossa.ino.cpp",
+    "Sourcefile": "/home/ben/Projects/fossssssaaaaa/build/sketch/fossa.ino.cpp",
     "Include": "",
     "Includepath": null
   },
@@ -80,7 +80,7 @@
     "Includepath": null
   },
   {
-    "Sourcefile": "/home/ben/Projects/fossa/libraries/TFT_eSPI/TFT_eSPI.cpp",
+    "Sourcefile": "/home/ben/Projects/fossssssaaaaa/libraries/TFT_eSPI/TFT_eSPI.cpp",
     "Include": "",
     "Includepath": null
   },
@@ -230,7 +230,7 @@
     "Includepath": null
   },
   {
-    "Sourcefile": "/home/ben/Projects/fossa/libraries/QRCode/src/qrcoded.c",
+    "Sourcefile": "/home/ben/Projects/fossssssaaaaa/libraries/QRCode/src/qrcoded.c",
     "Include": "",
     "Includepath": null
   }

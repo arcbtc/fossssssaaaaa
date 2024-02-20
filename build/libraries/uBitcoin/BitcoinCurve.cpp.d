@@ -1,4 +1,4 @@
-/home/ben/Projects/fossa/build/libraries/uBitcoin/BitcoinCurve.cpp.o: \
+/home/ben/Projects/fossssssaaaaa/build/libraries/uBitcoin/BitcoinCurve.cpp.o: \
  /home/ben/Arduino/libraries/uBitcoin/src/BitcoinCurve.cpp \
  /home/ben/Arduino/libraries/uBitcoin/src/BitcoinCurve.h \
  /home/ben/Arduino/libraries/uBitcoin/src/uBitcoin_conf.h \
