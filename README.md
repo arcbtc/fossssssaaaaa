@@ -79,10 +79,23 @@ If you don't want to use the web-installer, we reccomend the Arduino-cli:
 ```console
 # Download the client
 curl -fsSL https://raw.githubusercontent.com/arduino/arduino-cli/master/install.sh | sh
-# Check the board is connected and get the port. You may need to replace $USER, or remove `/home/$USER/bin/`
+
+# Install esp32 boards, you may need to replace $USER, or remove `/home/$USER/bin/`
+/home/$USER/bin/arduino-cli config init
+sudo nano /home/$USER/.arduino15/arduino-cli.yaml
+    board_manager:
+    additional_urls: [https://raw.githubusercontent.com/espressif/arduino-esp32>
+/home/$USER/bin/arduino-cli core update-index
+/home/$USER/bin/arduino-cli board listall
+/home/$USER/bin/arduino-cli core install esp32:esp32
+
+
+# Check the board is connected and get the port.
 /home/$USER/bin/arduino-cli board list
-# Chnage `/dev/ttyUSB1` to whatever the port was from the above command.
-/home/$USER/bin/arduino-cli upload --fqbn esp32:esp32:esp32 --input-dir build -p /dev/ttyUSB1
+
+# Change `/dev/ttyUSB1` to whatever the port was from the above command.
+# For blah `--fqbn esp32:esp32:esp32da` and blah `--fqbn esp32:esp32:esp32da`
+/home/$USER/bin/arduino-cli upload --fqbn esp32:esp32:esp32da --input-dir build -p /dev/ttyUSB1
 ```
 > Tip: if your device is not on `/dev/ttyUSB1`, you can find by `/dev/tty` and hitting tab
 
