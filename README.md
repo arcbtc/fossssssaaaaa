@@ -77,8 +77,11 @@ We use CT1 sealent/adhesive (or similar) for mounting screen, although the scree
 If you don't want to use the web-installer, we reccomend the Arduino-cli:
 
 ```console
+# Download the client
 curl -fsSL https://raw.githubusercontent.com/arduino/arduino-cli/master/install.sh | sh
-arduino-cli upload --fqbn esp32:esp32:esp32 --input-dir build -p /dev/ttyUSB1
+# You may need to replace $USER, or remove `/home/$USER/bin/`
+/home/$USER/bin/arduino-cli board list
+/home/$USER/bin/arduino-cli upload --fqbn esp32:esp32:esp32 --input-dir build -p /dev/ttyUSB1
 ```
 > Tip: if your device is not on `/dev/ttyUSB1`, you can find by `/dev/tty` and hitting tab
 
