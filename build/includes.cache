@@ -7,7 +7,7 @@
   {
     "Sourcefile": null,
     "Include": "",
-    "Includepath": "/home/ben/.arduino15/packages/esp32/hardware/esp32/2.0.14/variants/esp32"
+    "Includepath": "/home/ben/.arduino15/packages/esp32/hardware/esp32/2.0.14/variants/esp32da"
   },
   {
     "Sourcefile": "/home/ben/Projects/fossssssaaaaa/build/sketch/fossa.ino.cpp",

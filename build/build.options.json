@@ -3,7 +3,7 @@
   "builtInToolsFolders": "",
   "compiler.optimization_flags": "-Os",
   "customBuildProperties": "build.partitions=min_spiffs,upload.maximum_size=1966080,build.warn_data_percentage=75",
-  "fqbn": "esp32:esp32:esp32",
+  "fqbn": "esp32:esp32:esp32da",
   "hardwareFolders": "/home/ben/.arduino15/packages",
   "otherLibrariesFolders": "/home/ben/Arduino/libraries",
   "sketchLocation": "/home/ben/Projects/fossssssaaaaa/fossa"

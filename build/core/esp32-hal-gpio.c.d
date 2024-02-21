@@ -1,4 +1,4 @@
-/home/ben/Projects/fossa/build/core/esp32-hal-gpio.c.o: \
+/home/ben/Projects/fossssssaaaaa/build/core/esp32-hal-gpio.c.o: \
  /home/ben/.arduino15/packages/esp32/hardware/esp32/2.0.14/cores/esp32/esp32-hal-gpio.c \
  /home/ben/.arduino15/packages/esp32/hardware/esp32/2.0.14/cores/esp32/esp32-hal-gpio.h \
  /home/ben/.arduino15/packages/esp32/hardware/esp32/2.0.14/cores/esp32/esp32-hal.h \
@@ -100,7 +100,7 @@
  /home/ben/.arduino15/packages/esp32/hardware/esp32/2.0.14/cores/esp32/esp32-hal-psram.h \
  /home/ben/.arduino15/packages/esp32/hardware/esp32/2.0.14/cores/esp32/esp32-hal-rgb-led.h \
  /home/ben/.arduino15/packages/esp32/hardware/esp32/2.0.14/cores/esp32/esp32-hal-cpu.h \
- /home/ben/.arduino15/packages/esp32/hardware/esp32/2.0.14/variants/esp32/pins_arduino.h \
+ /home/ben/.arduino15/packages/esp32/hardware/esp32/2.0.14/variants/esp32da/pins_arduino.h \
  /home/ben/.arduino15/packages/esp32/hardware/esp32/2.0.14/tools/sdk/esp32/include/hal/include/hal/gpio_hal.h \
  /home/ben/.arduino15/packages/esp32/hardware/esp32/2.0.14/tools/sdk/esp32/include/hal/esp32/include/hal/gpio_ll.h \
  /home/ben/.arduino15/packages/esp32/hardware/esp32/2.0.14/tools/sdk/esp32/include/soc/esp32/include/soc/rtc_cntl_reg.h \

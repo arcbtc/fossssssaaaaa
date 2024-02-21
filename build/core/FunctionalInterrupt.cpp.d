@@ -1,4 +1,4 @@
-/home/ben/Projects/fossa/build/core/FunctionalInterrupt.cpp.o: \
+/home/ben/Projects/fossssssaaaaa/build/core/FunctionalInterrupt.cpp.o: \
  /home/ben/.arduino15/packages/esp32/hardware/esp32/2.0.14/cores/esp32/FunctionalInterrupt.cpp \
  /home/ben/.arduino15/packages/esp32/hardware/esp32/2.0.14/cores/esp32/FunctionalInterrupt.h \
  /home/ben/.arduino15/packages/esp32/hardware/esp32/2.0.14/cores/esp32/Arduino.h \
@@ -86,7 +86,7 @@
  /home/ben/.arduino15/packages/esp32/hardware/esp32/2.0.14/cores/esp32/esp32-hal-matrix.h \
  /home/ben/.arduino15/packages/esp32/hardware/esp32/2.0.14/cores/esp32/esp32-hal-uart.h \
  /home/ben/.arduino15/packages/esp32/hardware/esp32/2.0.14/cores/esp32/esp32-hal-gpio.h \
- /home/ben/.arduino15/packages/esp32/hardware/esp32/2.0.14/variants/esp32/pins_arduino.h \
+ /home/ben/.arduino15/packages/esp32/hardware/esp32/2.0.14/variants/esp32da/pins_arduino.h \
  /home/ben/.arduino15/packages/esp32/hardware/esp32/2.0.14/cores/esp32/esp32-hal-touch.h \
  /home/ben/.arduino15/packages/esp32/hardware/esp32/2.0.14/cores/esp32/esp32-hal-dac.h \
  /home/ben/.arduino15/packages/esp32/hardware/esp32/2.0.14/tools/sdk/esp32/include/driver/include/driver/gpio.h \

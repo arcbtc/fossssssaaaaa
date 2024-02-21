@@ -1,7 +1,7 @@
 /home/ben/Projects/fossssssaaaaa/build/libraries/SPI/SPI.cpp.o: \
  /home/ben/.arduino15/packages/esp32/hardware/esp32/2.0.14/libraries/SPI/src/SPI.cpp \
  /home/ben/.arduino15/packages/esp32/hardware/esp32/2.0.14/libraries/SPI/src/SPI.h \
- /home/ben/.arduino15/packages/esp32/hardware/esp32/2.0.14/variants/esp32/pins_arduino.h \
+ /home/ben/.arduino15/packages/esp32/hardware/esp32/2.0.14/variants/esp32da/pins_arduino.h \
  /home/ben/.arduino15/packages/esp32/hardware/esp32/2.0.14/cores/esp32/esp32-hal-spi.h \
  /home/ben/.arduino15/packages/esp32/hardware/esp32/2.0.14/tools/sdk/esp32/include/freertos/include/freertos/FreeRTOS.h \
  /home/ben/.arduino15/packages/esp32/hardware/esp32/2.0.14/tools/sdk/esp32/include/freertos/include/esp_additions/freertos/FreeRTOSConfig.h \

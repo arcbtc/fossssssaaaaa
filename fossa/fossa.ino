@@ -27,6 +27,10 @@ float coinAmountFloat[6] = {0.02, 0.05, 0.1, 0.2, 0.5, 1};
 int charge = 10;    // % you will charge people for service, set in LNbits extension
 int maxamount = 30; // max amount per withdraw
 
+// Screen selection
+// #define ST7796_DRIVER
+#define ILI9341_DRIVER
+
 //============================//
 //============================//
 //============================//

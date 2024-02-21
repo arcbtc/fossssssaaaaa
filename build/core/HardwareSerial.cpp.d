@@ -1,6 +1,6 @@
-/home/ben/Projects/fossa/build/core/HardwareSerial.cpp.o: \
+/home/ben/Projects/fossssssaaaaa/build/core/HardwareSerial.cpp.o: \
  /home/ben/.arduino15/packages/esp32/hardware/esp32/2.0.14/cores/esp32/HardwareSerial.cpp \
- /home/ben/.arduino15/packages/esp32/hardware/esp32/2.0.14/variants/esp32/pins_arduino.h \
+ /home/ben/.arduino15/packages/esp32/hardware/esp32/2.0.14/variants/esp32da/pins_arduino.h \
  /home/ben/.arduino15/packages/esp32/hardware/esp32/2.0.14/cores/esp32/io_pin_remap.h \
  /home/ben/.arduino15/packages/esp32/hardware/esp32/2.0.14/cores/esp32/Arduino.h \
  /home/ben/.arduino15/packages/esp32/hardware/esp32/2.0.14/cores/esp32/esp_arduino_version.h \

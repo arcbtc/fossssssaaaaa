@@ -10,4 +10,4 @@ arduino-cli compile \
     --build-property "upload.maximum_size=1966080" \
     --library ./libraries/TFT_eSPI \
     --library ./libraries/QRCode \
-    --build-path build --fqbn esp32:esp32:esp32 fossa
+    --build-path build --fqbn esp32:esp32:esp32da fossa
